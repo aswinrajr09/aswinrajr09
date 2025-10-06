@@ -1,6 +1,6 @@
 <h2>👨‍💻 About Me</h2>
 
-<p><strong>Aswinraj R - MERN Full Stack Developer</strong></p>
+<h3><strong>Aswinraj R - MERN Full Stack Developer</strong></h3>
 
 <p>
 Self-taught MERN Full Stack Developer with a passion for building scalable web applications. Experienced in turning ideas into
