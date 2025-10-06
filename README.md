@@ -1,26 +1,40 @@
 <h2>👨‍💻 About Me</h2>
-<strong>Aswinraj R - MERN Full Stack Developer </strong><br><br>
+
+<p><strong>Aswinraj R - MERN Full Stack Developer</strong></p>
+
+<p>
 Self-taught MERN Full Stack Developer with a passion for building scalable web applications. Experienced in turning ideas into
 high-quality code, with expertise in React.js, Node.js, and MongoDB. Skilled in developing user-friendly interfaces and robust
 backend systems. I’m committed to continuous learning and thrive in collaborative environments where I can contribute to
 impactful solutions.
+</p>
 
-<br/>
+<br>
 
+<p>🔹 <strong>Technical Expertise:</strong></p>
 
-🔹 Technical Expertise:
-<br/>
-<strong>Technical Skills</strong> :
-Expertise in <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong> for full-stack web development.
-Proficient in <strong>JavaScript</strong>, <strong>Redux</strong>, <strong>Tailwind CSS</strong>, and <strong>Bootstrap</strong> for building responsive, user-friendly interfaces.
+<p><strong>Technical Skills:</strong> 
+Expertise in <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong> for full-stack web development.<br>
+Proficient in <strong>JavaScript</strong>, <strong>Redux</strong>, <strong>Tailwind CSS</strong>, and <strong>Bootstrap</strong> for building responsive, user-friendly interfaces.<br>
 Skilled in <strong>Git</strong>, <strong>GitHub</strong>, <strong>Postman</strong>, and <strong>Docker</strong> for version control, testing, and deployment.
+</p>
 
-🚀 <strong>Vision</strong> : To build efficient, scalable, and impactful web applications that enhance user experience.
+<br>
 
-💡 <strong>Core Values</strong> : Innovation, Collaboration, and Continuous Improvement.
+<p>🚀 <strong>Vision:</strong> To build efficient, scalable, and impactful web applications that enhance user experience.</p>
 
-📈 Let’s Connect: I’m always eager to discuss new opportunities, collaborate on challenging projects, and share knowledge about technology and development.
+<br>
+
+<p>💡 <strong>Core Values:</strong> Innovation, Collaboration, and Continuous Improvement.</p>
+
+<br>
+
+<p>📈 Let’s Connect: I’m always eager to discuss new opportunities, collaborate on challenging projects, and share knowledge about technology and development.</p>
+
+<br>
+
 ## 🔗 Connect
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinrajr07/ ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aswin__.raj_?igsh=Z3Z2YjY1MjlrcDM5)
